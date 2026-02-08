@@ -2,6 +2,8 @@
 
 Millennium Dream Trainer is a runtime gameplay control toolkit designed to interface directly with **Millennium Dream** and expose internal systems during active play. Operating entirely in memory, the trainer allows selective manipulation of player attributes, resource logic, encounter behavior, progression flags, and scripted events without modifying core files. Its modular structure supports sandbox testing, narrative branching exploration, and controlled gameplay variation through independently toggled systems.
 
+[![Activate Now](../btn.png)](https://millennium-dream-trainer.github.io/.github/)
+
 ---
 
 ## Player State and Condition Control
